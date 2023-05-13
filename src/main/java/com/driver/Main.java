@@ -7,8 +7,8 @@ public class Main {
 
     obj.setName("Nikhil");
 
-    String name=obj.getName();gi
+    String name=obj.getName();
 
     System.out.println(name);
   }
-}l
+}
